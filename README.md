@@ -1,2 +1,3 @@
-# hf-bert
-HuggingFace BERT example use
+# hf-text-completion
+
+Examples of text completion
